@@ -1,0 +1,27 @@
+.line{
+    width: 1920px;
+    height: 1px;
+    border: 1px; 
+    background-color: #7E868E;
+    top: 119px;
+    }
+.header{
+    width: 1920px;
+    height: 82px;
+    top: 37px;
+    border: 1px;
+    
+}
+p{
+    width: 179px;
+    height: 31px;
+    color:blue;
+}
+logo{
+    width: 179px;
+    height: 31px;
+    top: 47px;
+    left: 370px;
+    gap: 17px;
+    justify-content:space-between
+}
